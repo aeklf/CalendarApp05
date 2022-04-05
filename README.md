@@ -5,7 +5,7 @@ Work Day Scheduler based on modified starter code.
 
 ## Description
 
-Calendar application which allows users to schedule events at each hour of the day; runs in browser, structured with HTML & CSS and powered by jQuery.
+Calendar application which allows users to schedule events at each hour of the day; runs in browser, structured with HTML & CSS and powered by Moment.js.
 ( [Moment.js](https://momentjs.com/) )
 
 ## User Story
